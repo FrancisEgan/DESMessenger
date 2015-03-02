@@ -11,10 +11,10 @@ Instructions for localhost:
 
 1. Compile all source .java files
 
-2. Run ServerMain.java
+2. Run ServerMain
 
-3. In another terminal, run ClientMain.java
+3. In another terminal, run ClientMain
 
-4. Two Java GUIs will open. Each window has the ability to accept input and sent it across
+4. Two Java GUIs will open. Each window has the ability to accept input and send it across
    the socket to the other window. The message is encrypted with Triple DES before being sent,
    and decrypted after being received
